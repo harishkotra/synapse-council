@@ -6,7 +6,7 @@
 <img width="1455" height="1123" alt="Screenshot at Mar 19 02-21-57" src="https://github.com/user-attachments/assets/d04739bf-287e-41c0-9d05-842ef692da69" />
 <img width="1456" height="1126" alt="Screenshot at Mar 19 02-25-55" src="https://github.com/user-attachments/assets/5eee3afc-363e-4b1a-aece-bbe505cc0ffa" />
 
-
+Video Demo/Pitch: [https://youtu.be/s3H_dVca5jg](https://youtu.be/s3H_dVca5jg)
 
 ## 🚀 DigitalOcean Gradient™ AI Implementation
 
