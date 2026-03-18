@@ -1,8 +1,10 @@
 {
-  "name": "react-example",
+  "name": "synapse-council",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Harish Kotra",
+  "license": "MIT",
   "scripts": {
     "dev": "tsx server.ts",
     "start": "NODE_ENV=production tsx server.ts",
