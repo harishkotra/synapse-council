@@ -2,6 +2,12 @@
 
 **Synapse Council** is a full-stack AI application built for the **DigitalOcean Gradient™ AI Hackathon**. It simulates complex group dynamics by orchestrating autonomous AI agents to reach a consensus on any given topic.
 
+<img width="1455" height="1125" alt="Screenshot at Mar 19 02-21-43" src="https://github.com/user-attachments/assets/8bb000fb-68ff-4d37-908c-d8bac2754949" />
+<img width="1455" height="1123" alt="Screenshot at Mar 19 02-21-57" src="https://github.com/user-attachments/assets/d04739bf-287e-41c0-9d05-842ef692da69" />
+<img width="1456" height="1126" alt="Screenshot at Mar 19 02-25-55" src="https://github.com/user-attachments/assets/5eee3afc-363e-4b1a-aece-bbe505cc0ffa" />
+
+
+
 ## 🚀 DigitalOcean Gradient™ AI Implementation
 
 This project leverages the **full-stack features** of the DigitalOcean Gradient AI platform:
@@ -27,6 +33,3 @@ This app is production-ready and can be deployed to the **DigitalOcean App Platf
 - `GRADIENT_MODEL_ID`: (Optional) Default: `meta-llama-3-8b-instruct`.
 - `MODERATOR_AGENT_UUID`: UUID of your Parent Moderator Agent.
 - `AGENT_ELARA_UUID`, `AGENT_KAEL_UUID`, etc.: UUIDs for your specialized agents.
-
-## 📜 License
-This project is open-source under the **MIT License**.
