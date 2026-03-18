@@ -1,0 +1,21 @@
+# DigitalOcean App Platform configuration
+name: synapse-council
+region: nyc
+services:
+  - name: synapse-council-service
+    instance_count: 1
+    instance_size_slug: basic-xxs
+    dockerfile_path: Dockerfile
+    envs:
+      - key: NODE_ENV
+        scope: RUN_TIME
+        value: production
+      - key: DIGITALOCEAN_TOKEN
+        scope: RUN_TIME
+        type: SECRET
+      - key: GRADIENT_MODEL_ID
+        scope: RUN_TIME
+        value: meta-llama-3-8b-instruct
+    http_port: 3000
+    routes:
+      - path: /

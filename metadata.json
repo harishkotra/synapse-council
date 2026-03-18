@@ -1,0 +1,5 @@
+{
+  "name": "Synapse Council",
+  "description": "A multi-agent AI system where distinct personalities debate, influence each other, and reach consensus using DigitalOcean Gradient AI.",
+  "requestFramePermissions": []
+}
