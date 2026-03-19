@@ -5,8 +5,10 @@
 <img width="1455" height="1125" alt="Screenshot at Mar 19 02-21-43" src="https://github.com/user-attachments/assets/8bb000fb-68ff-4d37-908c-d8bac2754949" />
 <img width="1455" height="1123" alt="Screenshot at Mar 19 02-21-57" src="https://github.com/user-attachments/assets/d04739bf-287e-41c0-9d05-842ef692da69" />
 <img width="1456" height="1126" alt="Screenshot at Mar 19 02-25-55" src="https://github.com/user-attachments/assets/5eee3afc-363e-4b1a-aece-bbe505cc0ffa" />
+<img width="1559" height="1103" alt="Screenshot at Mar 19 09-58-29" src="https://github.com/user-attachments/assets/baa8579a-dc16-424a-b34d-033b531c97cd" />
 
-Video Demo/Pitch: [https://youtu.be/s3H_dVca5jg](https://youtu.be/s3H_dVca5jg)
+
+Video Demo/Pitch: [https://youtu.be/J_Z-C2J4SdM](https://youtu.be/J_Z-C2J4SdM)
 
 ## 🚀 DigitalOcean Gradient™ AI Implementation
 
