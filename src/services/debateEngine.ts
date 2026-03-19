@@ -17,7 +17,7 @@ export const SCIENTISTS_PRESET: DebatePreset = {
       memory: [],
       currentStance: 'NEUTRAL',
       confidence: 0.5,
-      avatar: 'https://picsum.photos/seed/elara/100/100',
+      avatar: 'https://i.ibb.co/yntrRZP9/Elara-Vance.png',
       agentUuid: process.env.AGENT_ELARA_UUID || 'aq64ljvls6vayemhrequh5oh',
       deploymentName: 'development',
       accessKey: process.env.AGENT_ELARA_KEY || '7tfDBg-p5w0mlp78VAgYMxTUw90zMPZi'
@@ -32,7 +32,7 @@ export const SCIENTISTS_PRESET: DebatePreset = {
       memory: [],
       currentStance: 'NEUTRAL',
       confidence: 0.5,
-      avatar: 'https://picsum.photos/seed/kael/100/100',
+      avatar: 'https://i.ibb.co/HfjgdNm3/Kaelen.png',
       agentUuid: process.env.AGENT_KAEL_UUID || 'prji2k2xljzxp5ebhrtjytez',
       deploymentName: 'development',
       accessKey: process.env.AGENT_KAEL_KEY || 'xAZorwBIoNjFvmwig7YGUG-VQZvOvmeI'
@@ -47,7 +47,7 @@ export const SCIENTISTS_PRESET: DebatePreset = {
       memory: [],
       currentStance: 'NEUTRAL',
       confidence: 0.5,
-      avatar: 'https://picsum.photos/seed/mira/100/100',
+      avatar: 'https://i.ibb.co/fzp1h49K/Mira-Sato.png',
       agentUuid: process.env.AGENT_MIRA_UUID || 'rlxy22yiv6le7aslp4fsuq6r',
       deploymentName: 'development',
       accessKey: process.env.AGENT_MIRA_KEY || '-jLFh4mt87bsqHlbJ9BrF4TcN8BEsHkJ'
@@ -62,7 +62,7 @@ export const SCIENTISTS_PRESET: DebatePreset = {
       memory: [],
       currentStance: 'NEUTRAL',
       confidence: 0.5,
-      avatar: 'https://picsum.photos/seed/silas/100/100',
+      avatar: 'https://i.ibb.co/PzMb2gnM/Silas-Vane.png',
       agentUuid: process.env.AGENT_SILAS_UUID || 'lqwohool4c5cygxzr4tbop2v',
       deploymentName: 'development',
       accessKey: process.env.AGENT_SILAS_KEY || 'qkgqPxnXv_4CtrfhgADlxxS7k8BXDXv_'
@@ -77,7 +77,7 @@ export const SCIENTISTS_PRESET: DebatePreset = {
       memory: [],
       currentStance: 'NEUTRAL',
       confidence: 0.5,
-      avatar: 'https://picsum.photos/seed/anya/100/100',
+      avatar: 'https://i.ibb.co/d1nvkpG/Anya-Petrova.png',
       agentUuid: process.env.AGENT_ANYA_UUID || 'tgyabuvd2gim2se7p74dl2mf',
       deploymentName: 'development',
       accessKey: process.env.AGENT_ANYA_KEY || 'ZusTyhdD4iu-cdKUpDtdywg-x9_1hlrK'
